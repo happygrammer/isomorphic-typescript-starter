@@ -1,4 +1,4 @@
-## Isomorphic typescript Starter ##
+## Isomorphic Typescript Starter ##
 
 This is a project developed with an attempt to figure out how to develop servers and clients using only typescript(isormorphic!). In order to be a isormorphic typescript application. you have to use a single language(typescript) when developing for the server and client, as well as define and use a common module. With a single language, you can eliminate duplicate logic code between the client and the server.
 
@@ -39,6 +39,7 @@ As soon as you enter the above commands, the server will be launched and the bro
 	http://localhost:8080
 
 ## Demo ##
+This video is a demonstration of running the bookmark application simply after running the server.
 
 [![Isomorphic typescript starter DEMO](https://i.ytimg.com/vi/7tBzEHerEQE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=V8PdvJPkWE2ExyOFuS8cr5brMJU)](https://www.youtube.com/watch?v=7tBzEHerEQE&feature=youtu.be)
 
