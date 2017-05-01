@@ -60,10 +60,10 @@ This project is a bookmark application introduced to how to develop using typesc
 
 The bookmark application works in the following order:
 
-- The server prints the template of the bookmark application.
-- Bookmark Enter the bookmark information in the application.
-- Input information is verified using common (server and client) module.
-- If there is no abnormality in the verification, the server requests the server and responds again to add the bookmark entry.
+- The server renders the template by default.
+- You can register bookmark information using the registration button.
+- The entered bookmark information is verified by a common module (located in the common directory).
+- If the validation passes, the bookmark information is added back to the client from the server.
 
 ## Directory structure ##
 
