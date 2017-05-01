@@ -24,7 +24,6 @@ This is a project developed with an attempt to figure out how to develop servers
 ## Required environment ##
 
 - Node.js 6.10.0 +
-- npm 3.0 +
 
 ## Installation##
 
