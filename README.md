@@ -25,7 +25,7 @@ This is a project developed with an attempt to figure out how to develop servers
 
 - Node.js 6.10.0 +
 
-## Installation##
+## Installation ##
 
 This project installs the relevant package through npm based on the package.json file.
 
