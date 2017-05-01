@@ -13,12 +13,18 @@ This is a project developed with an attempt to figure out how to develop servers
 - [Directory structure](#directory-structure)
 
 
+
 ## Features ##
 
 - Develop client and server simultaneously using typescript(isormorphic!)
 - Run commands using Grunt and perform the bundling using the webpack.
 - Restart the server If the code changes on the client or server.
 - livereloading
+
+## Required environment ##
+
+- Node.js 6.10.0 +
+- npm 3.0 +
 
 ## Installation##
 
