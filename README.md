@@ -5,12 +5,12 @@ This is a project developed with an attempt to figure out how to develop servers
 
 ## Table of Contents ##
 
-- [Features](#Features)
-- [Installation](#Installation)
-- [Run](#Run)
-- [Demo](#Demo)
-- [Project Description](#Project-Description)
-- [Directory structure](#Directory-structure)
+- [Features](#features)
+- [Installation](#installation)
+- [Run](#run)
+- [Demo](#demo)
+- [Project Description](#project-description)
+- [Directory structure](#directory-structure)
 
 
 ## Features ##
